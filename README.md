@@ -1,4 +1,4 @@
-# Hi, I'm Hridayveer 👋
+# Hi, I'm Hridayveer
 
 Data Science undergraduate at Punjab Engineering College.
 
@@ -10,13 +10,13 @@ Interested in:
 
 ## Projects
 
-### 🎮 Multiplayer Cross Zero
+### Multiplayer Cross Zero
 Real-time multiplayer browser game using JavaScript, Node.js and WebSockets.
 
-### 💰 Finance Tracker
+### Finance Tracker
 Personal finance tracker with transaction parsing and spending analysis.
 
-### 🧟 Vampire Survivors Lite
+### Vampire Survivors Lite
 Browser-based survival shooter built with JavaScript and HTML5 Canvas.
 
 ## Currently Working On
@@ -32,4 +32,4 @@ HTML • CSS • Node.js • WebSockets
 Git • Linux • GCC • GDB
 
 ---
-📫 LinkedIn: <https://www.linkedin.com/in/hridayveer-singh-b5a530350/>
+LinkedIn: <https://www.linkedin.com/in/hridayveer-singh-b5a530350/>
