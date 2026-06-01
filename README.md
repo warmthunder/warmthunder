@@ -1,116 +1,35 @@
-# Hi, I'm Hridayveer Singh 
+# Hi, I'm Hridayveer 👋
 
-Data Science undergraduate at Punjab Engineering College with interests in software engineering, networking, game development, and low-level systems programming.
+Data Science undergraduate at Punjab Engineering College.
 
-##  Currently Working On
+Interested in:
+- Systems Programming
+- Networking
+- Game Development
+- Software Engineering
 
-- Building a 2D game engine in C
-- Learning systems programming and memory management
-- Exploring networking and multiplayer game architecture
-- Looking for software engineering internships
+## Projects
 
----
+### 🎮 Multiplayer Cross Zero
+Real-time multiplayer browser game using JavaScript, Node.js and WebSockets.
 
-## Featured Projects
+### 💰 Finance Tracker
+Personal finance tracker with transaction parsing and spending analysis.
 
-### Multiplayer Cross Zero
-Real-time multiplayer browser game built using JavaScript, Node.js, and WebSockets.
+### 🧟 Vampire Survivors Lite
+Browser-based survival shooter built with JavaScript and HTML5 Canvas.
 
-- Client-server multiplayer architecture
-- Real-time game state synchronization
-- Browser-based gameplay
+## Currently Working On
 
-**Tech:** JavaScript, Node.js, WebSockets, HTML5 Canvas
+- 2D Game Engine in C
+- Systems Programming
+- Operating Systems & Computer Networks
 
----
+## Tech
 
-### Finance Tracker
-Personal finance application for tracking and analyzing transaction history.
-
-- Transaction import and categorization
-- Spending analysis and reporting
-- Recurring payment management
-
-**Tech:** Python, JavaScript, HTML, CSS, Pandas
+JavaScript • Python • C • C++ • SQL  
+HTML • CSS • Node.js • WebSockets  
+Git • Linux • GCC • GDB
 
 ---
-
-### Vampire Survivors Lite
-Browser-based survival shooter inspired by Vampire Survivors.
-
-- Projectile combat system
-- Enemy spawning and progression
-- Collision detection and game state management
-
-**Tech:** JavaScript, HTML5 Canvas
-
----
-
-### Multiplayer Pong
-Online multiplayer Pong implementation using WebSockets.
-
-- Real-time multiplayer communication
-- Browser-based gameplay
-- Server-authoritative game state
-
-**Tech:** JavaScript, Node.js, WebSockets
-
----
-
-## Tech Stack
-
-### Languages
-- JavaScript
-- Python
-- C++
-- C
-- SQL
-
-### Web Technologies
-- HTML
-- CSS
-- Node.js
-- WebSockets
-
-### Tools
-- Git
-- GitHub
-- Linux
-- GCC
-- GDB
-- VS Code
-- CMake
-
-### Libraries & Frameworks
-- NumPy
-- Pandas
-- Tkinter
-- Love2D
-
----
-
-## Relevant Coursework
-
-- Operating Systems
-- Computer Networks
-- DBMS
-- Data Structures & Algorithms
-- Machine Learning
-- Classical AI
-- Statistics for Data Science
-
----
-
-## Goals for 2026
-
-- Complete a 2D game engine in C
-- Build deeper systems programming knowledge
-- Contribute to open-source projects
-- Gain software engineering internship experience
-
----
-
-## Connect With Me
-
-- GitHub: https://github.com/warmthunder
-- LinkedIn: [https://www.linkedin.com/in/hridayveer-singh-b5a530350/]
+📫 LinkedIn: <https://www.linkedin.com/in/hridayveer-singh-b5a530350/>
