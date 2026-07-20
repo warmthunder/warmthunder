@@ -10,6 +10,9 @@ Interested in:
 
 ## Projects
 
+### 3D renderer in Canvas(HTML)
+Built a software 3D renderer from scratch using the HTML5 Canvas API
+
 ### Multiplayer Cross Zero
 Real-time multiplayer browser game using JavaScript, Node.js and WebSockets.
 
@@ -21,9 +24,9 @@ Browser-based survival shooter built with JavaScript and HTML5 Canvas.
 
 ## Currently Working On
 
-- 2D Game Engine in C
+- 3D Game Engine in Canvas
 - Systems Programming
-- Operating Systems & Computer Networks
+- Networks project in C
 
 ## Tech
 
